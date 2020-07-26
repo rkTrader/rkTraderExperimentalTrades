@@ -6,4 +6,4 @@ We urge you to **NOT** take any trade purely based on this system.
 
 
 **Objective** : 
-To test various trading strategies from signals created in near real time and validate their performance over time. This information may be used to create production level trading systems in future. Needless to say, **This is not a production system**
+To test various trading strategies from signals created in near real time and validate their performance over time. This information may be used to create production level trading systems in future. Needless to say, **This is not a production system which you should use solely to get into trades**
